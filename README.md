@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ## Furkan Uçar
 - I'm a freshman in Eskisehir Technical University, department of Computer Engineering. Also I’m currently participating for Kodluyoruz Internship Programme.
 - I'm currently learning **Java & Spring**.
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ucarfurkan)](https://github.com/ucarfurkan/github-readme-stats)
 
