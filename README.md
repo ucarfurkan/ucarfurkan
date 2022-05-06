@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Furkan Uçar</h1>
-<h3 align="center">I'm a freshman in Eskisehir Technical University, department of Computer Engineering. Also I’m currently participating for Kodluyoruz Internship Programme.</h3>
+<h1 align="center">I'm Furkan Uçar</h1>
+<h3 align="left">I'm a freshman in Eskisehir Technical University, department of Computer Engineering. Also I’m currently participating for Kodluyoruz Internship Programme.</h3>
 
 - 🌱 I’m currently learning **Java & Spring**
 
