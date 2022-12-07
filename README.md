@@ -15,7 +15,7 @@
 
  <h3 align="left">My projects:</h3>
   <ul>
-    <li>ToDoApp</li>
+    <li>ToDoApp
     <ul>
       <li>Java</li>
       <li>Spring Boot</li>
@@ -24,8 +24,9 @@
       <li>PostgreSQL</li>
       <li>Bootstrap</li>
       <li>Bootstrap</li>
-      [a link](https://github.com/user/repo/blob/branch/other_file.md)
     </ul>
+      <a href="https://github.com/ucarfurkan/ToDoApp">Go to project</a>
+      </li>
   <ul>
 
     
