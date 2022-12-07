@@ -24,7 +24,8 @@
       <li>PostgreSQL</li>
       <li>Bootstrap</li>
       <li>Bootstrap</li>
+      <p>Click <span onclick="window.location.href='https://github.com/ucarfurkan/ToDoApp'">here</span> to go the project's repository.</p>
     </ul>
   <ul>
 
-    Click [here](https://github.com/ucarfurkan/ToDoApp) to go the project's repository.
+    
