@@ -25,7 +25,7 @@
       <li>Bootstrap</li>
       <li>Bootstrap</li>
     </ul>
-      <a href="https://github.com/ucarfurkan/ToDoApp">Go to project</a>
+      <li>Click <a href="https://github.com/ucarfurkan/ToDoApp">here</a> to go to the project
       </li>
   <ul>
 
