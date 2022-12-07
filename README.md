@@ -24,9 +24,9 @@
       <li>PostgreSQL</li>
       <li>Bootstrap</li>
       <li>Bootstrap</li>
-    </ul>
       <li>Click <a href="https://github.com/ucarfurkan/ToDoApp">here</a> to go to the project
       </li>
+    </ul>
   <ul>
 
     
