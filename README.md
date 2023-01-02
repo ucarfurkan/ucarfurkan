@@ -23,7 +23,6 @@
       <li>Thymeleaf</li>
       <li>PostgreSQL</li>
       <li>Bootstrap</li>
-      <li>Bootstrap</li>
       <li>Click <a href="https://github.com/ucarfurkan/ToDoApp">here</a> to go to the project
       </li>
     </ul>
