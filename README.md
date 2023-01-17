@@ -23,7 +23,7 @@
       <li>Thymeleaf</li>
       <li>H2 Database</li>
       <li>Bootstrap</li>
-      <li>Click <a href="[https://github.com/ucarfurkan/ToDoApp](https://github.com/ucarfurkan/LaboratoryReportingSystem)">here</a> to go to the project
+      <li>Click <a href="https://github.com/ucarfurkan/LaboratoryReportingSystem">here</a> to go to the project
       </li>
     </ul>
     <li>ToDoApp
