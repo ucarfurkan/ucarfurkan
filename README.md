@@ -1,7 +1,7 @@
 <h1 align="center">I'm Furkan Uçar</h1>
 <h3 align="left">I'm a Computer Engineering student at Eskisehir Technical University.
   
-- 🌱 I’m currently learning **Java & Spring**
+- 🌱 I’m currently working on **Spring Boot & Angular**
 
 - 📫 How to reach me **furkanucar011@gmail.com**
 
