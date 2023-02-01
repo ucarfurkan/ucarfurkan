@@ -25,8 +25,22 @@
       <li>Bootstrap</li>
       <li>Click <a href="https://github.com/ucarfurkan/LaboratoryReportingSystem">here</a> to go to the project
       </li>
-    </ul>
-    <li>ToDoApp
+      </ul>
+    </li>
+    <li>Employee Management System
+    <ul>
+      <li>Java</li>
+      <li>Spring Boot</li>
+      <li>Hibernate - JPA</li>
+      <li>Angular</li>
+      <li>PostgreSQL</li>
+      <li>Bootstrap</li>
+      <li>Click <a href="https://github.com/ucarfurkan/EmployeeManagementSystem">here</a> to go to the backend of the project.
+      </li>
+      <li>Click <a href="https://github.com/ucarfurkan/EmployeeManagementSystem-FRONTEND">here</a> to go to the frontend of the project.
+      </li>
+    </ul>  
+    <li>To Do App
     <ul>
       <li>Java</li>
       <li>Spring Boot</li>
@@ -37,6 +51,7 @@
       <li>Click <a href="https://github.com/ucarfurkan/ToDoApp">here</a> to go to the project
       </li>
     </ul>
-  <ul>
+    </li>
+  </ul>
 
     
