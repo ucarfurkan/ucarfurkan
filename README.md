@@ -27,9 +27,21 @@
   <ul>
     <li>React Projects
       <ul>
-        <li> <a href="[https://github.com/ucarfurkan/PrimeVideoClone">Prime Video Clone</a> </li>
+        <li> <a href="https://github.com/ucarfurkan/PrimeVideoClone">Prime Video Clone</a> </li>
         <li> <a href="https://github.com/ucarfurkan/quizapp">Quiz App</a> </li>
         <li> <a href="https://github.com/ucarfurkan/tenzies">Tenzies</a> </li>
+      </ul>
+    </li>
+    <li>London Housing
+    <ul>
+      <li>Java</li>
+      <li>Spring Boot</li>
+      <li>Hibernate - JPA</li>
+      <li>PostgreSQL</li>
+      <li>OpenAPI</li>
+      <li>JUnit</li>
+      <li>Click <a href="https://github.com/ucarfurkan/london-housing">here</a> to go to the project
+      </li>
       </ul>
     </li>
     <li>Laboratory Reporting System
