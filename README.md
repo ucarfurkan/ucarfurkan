@@ -27,6 +27,7 @@
   <ul>
     <li>React Projects
       <ul>
+        <li> <a href="[https://github.com/ucarfurkan/PrimeVideoClone">Prime Video Clone</a> </li>
         <li> <a href="https://github.com/ucarfurkan/quizapp">Quiz App</a> </li>
         <li> <a href="https://github.com/ucarfurkan/tenzies">Tenzies</a> </li>
       </ul>
