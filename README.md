@@ -32,7 +32,7 @@
         <li> <a href="https://github.com/ucarfurkan/tenzies">Tenzies</a> </li>
       </ul>
     </li>
-    <li>Spring Projects
+    <li>Spring Boot Projects
       <ul>
         <li>London Housing
     <ul>
@@ -83,6 +83,11 @@
       </li>
     </ul>
     </li>
+      </ul>
+    </li>
+    <li> Spring Security Projects
+      <ul>
+          <li> <a href="https://github.com/ucarfurkan/Google-OAuth2">Google OAuth2</a> </li>
       </ul>
     </li>
   </ul>
