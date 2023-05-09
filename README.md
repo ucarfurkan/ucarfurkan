@@ -32,7 +32,9 @@
         <li> <a href="https://github.com/ucarfurkan/tenzies">Tenzies</a> </li>
       </ul>
     </li>
-    <li>London Housing
+    <li>Spring Projects
+      <ul>
+        <li>London Housing
     <ul>
       <li>Java</li>
       <li>Spring Boot</li>
@@ -80,6 +82,8 @@
       <li>Click <a href="https://github.com/ucarfurkan/ToDoApp">here</a> to go to the project
       </li>
     </ul>
+    </li>
+      </ul>
     </li>
   </ul>
 
