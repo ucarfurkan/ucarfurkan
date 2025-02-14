@@ -1,5 +1,5 @@
 <h1 align="center">I'm Furkan Uçar</h1>
-<h3 align="left">I'm a Computer Engineering student at Eskisehir Technical University.
+<h3 align="left">I'm a Fullstack Software Developer.
   
 - 🌱 I’m currently working on **Spring Boot & React**
 
